@@ -1,0 +1,264 @@
+Station,SurveyID,SurveyName,Trail,HabitatID,Habitat,Days
+1,1,Los Amigos 2005,trail,1,Terra Firme,63
+2,1,Los Amigos 2005,trail,1,Terra Firme,63
+3,1,Los Amigos 2005,trail,1,Terra Firme,63
+4,1,Los Amigos 2005,trail,1,Terra Firme,61
+5,1,Los Amigos 2005,trail,2,Floodplain,62
+6,1,Los Amigos 2005,trail,2,Floodplain,62
+7,1,Los Amigos 2005,trail,1,Terra Firme,62
+8,1,Los Amigos 2005,trail,1,Terra Firme,62
+9,1,Los Amigos 2005,trail,1,Terra Firme,60
+10,1,Los Amigos 2005,trail,1,Terra Firme,62
+11,1,Los Amigos 2005,trail,1,Terra Firme,62
+12,1,Los Amigos 2005,trail,1,Terra Firme,62
+13,1,Los Amigos 2005,trail,1,Terra Firme,62
+14,1,Los Amigos 2005,trail,2,Floodplain,62
+15,1,Los Amigos 2005,trail,1,Terra Firme,61
+16,1,Los Amigos 2005,trail,1,Terra Firme,61
+17,1,Los Amigos 2005,trail,1,Terra Firme,61
+18,1,Los Amigos 2005,trail,1,Terra Firme,61
+19,1,Los Amigos 2005,trail,1,Terra Firme,61
+20,1,Los Amigos 2005,trail,2,Floodplain,61
+21,1,Los Amigos 2005,trail,2,Floodplain,61
+22,1,Los Amigos 2005,trail,2,Floodplain,61
+23,1,Los Amigos 2005,trail,2,Floodplain,61
+24,1,Los Amigos 2005,trail,2,Floodplain,61
+27,2,Los Amigos 2006,trail,2,Floodplain,63
+28,2,Los Amigos 2006,trail,2,Floodplain,63
+29,2,Los Amigos 2006,trail,2,Floodplain,63
+30,2,Los Amigos 2006,trail,1,Terra Firme,63
+31,2,Los Amigos 2006,trail,2,Floodplain,63
+32,2,Los Amigos 2006,trail,2,Floodplain,62
+33,2,Los Amigos 2006,trail,1,Terra Firme,62
+34,2,Los Amigos 2006,trail,1,Terra Firme,62
+35,2,Los Amigos 2006,trail,1,Terra Firme,62
+36,2,Los Amigos 2006,trail,1,Terra Firme,62
+37,2,Los Amigos 2006,trail,1,Terra Firme,62
+38,2,Los Amigos 2006,trail,1,Terra Firme,65
+39,2,Los Amigos 2006,trail,1,Terra Firme,65
+40,2,Los Amigos 2006,trail,1,Terra Firme,65
+41,2,Los Amigos 2006,trail,1,Terra Firme,63
+42,2,Los Amigos 2006,trail,1,Terra Firme,63
+43,2,Los Amigos 2006,trail,1,Terra Firme,63
+44,2,Los Amigos 2006,trail,1,Terra Firme,63
+45,2,Los Amigos 2006,trail,1,Terra Firme,63
+46,2,Los Amigos 2006,trail,1,Terra Firme,63
+47,2,Los Amigos 2006,trail,1,Terra Firme,63
+48,2,Los Amigos 2006,trail,1,Terra Firme,64
+49,2,Los Amigos 2006,trail,1,Terra Firme,64
+50,2,Los Amigos 2006,trail,1,Terra Firme,62
+51,2,Los Amigos 2006,trail,2,Floodplain,62
+52,2,Los Amigos 2006,trail,1,Terra Firme,63
+53,2,Los Amigos 2006,trail,2,Floodplain,63
+54,2,Los Amigos 2006,trail,2,Floodplain,63
+55,2,Los Amigos 2006,trail,1,Terra Firme,63
+56,2,Los Amigos 2006,trail,1,Terra Firme,63
+57,2,Los Amigos 2006,trail,1,Terra Firme,63
+58,2,Los Amigos 2006,trail,1,Terra Firme,56
+59,2,Los Amigos 2006,trail,2,Floodplain,65
+60,2,Los Amigos 2006,trail,2,Floodplain,65
+61,2,Los Amigos 2006,trail,1,Terra Firme,65
+62,2,Los Amigos 2006,trail,2,Floodplain,58
+63,2,Los Amigos 2006,trail,1,Terra Firme,64
+64,2,Los Amigos 2006,trail,2,Floodplain,59
+65,2,Los Amigos 2006,trail,2,Floodplain,59
+66,2,Los Amigos 2006,trail,2,Floodplain,65
+67,3,Malinowsky 2007,trail,2,Floodplain,61
+68,3,Malinowsky 2007,trail,2,Floodplain,61
+69,3,Malinowsky 2007,trail,1,Terra Firme,61
+70,3,Malinowsky 2007,trail,1,Terra Firme,61
+71,3,Malinowsky 2007,trail,2,Floodplain,62
+72,3,Malinowsky 2007,trail,2,Floodplain,62
+73,3,Malinowsky 2007,trail,2,Floodplain,62
+74,3,Malinowsky 2007,trail,2,Floodplain,62
+75,3,Malinowsky 2007,trail,1,Terra Firme,62
+76,3,Malinowsky 2007,trail,1,Terra Firme,52
+77,3,Malinowsky 2007,trail,1,Terra Firme,62
+78,3,Malinowsky 2007,trail,2,Floodplain,62
+79,3,Malinowsky 2007,trail,2,Floodplain,63
+80,3,Malinowsky 2007,trail,2,Floodplain,63
+81,3,Malinowsky 2007,trail,1,Terra Firme,63
+82,3,Malinowsky 2007,trail,1,Terra Firme,63
+83,3,Malinowsky 2007,trail,1,Terra Firme,54
+84,3,Malinowsky 2007,trail,2,Floodplain,65
+85,3,Malinowsky 2007,trail,2,Floodplain,65
+86,3,Malinowsky 2007,trail,2,Floodplain,65
+87,3,Malinowsky 2007,trail,1,Terra Firme,65
+88,3,Malinowsky 2007,trail,1,Terra Firme,65
+89,3,Malinowsky 2007,trail,1,Terra Firme,54
+90,3,Malinowsky 2007,trail,1,Terra Firme,65
+91,3,Malinowsky 2007,trail,2,Floodplain,63
+92,3,Malinowsky 2007,trail,2,Floodplain,63
+93,3,Malinowsky 2007,trail,2,Floodplain,63
+94,3,Malinowsky 2007,trail,1,Terra Firme,63
+95,3,Malinowsky 2007,trail,1,Terra Firme,63
+96,3,Malinowsky 2007,trail,1,Terra Firme,58
+97,3,Malinowsky 2007,trail,2,Floodplain,64
+98,3,Malinowsky 2007,trail,2,Floodplain,64
+99,3,Malinowsky 2007,trail,2,Floodplain,64
+100,3,Malinowsky 2007,trail,2,Floodplain,64
+101,3,Malinowsky 2007,trail,1,Terra Firme,64
+102,3,Malinowsky 2007,trail,1,Terra Firme,64
+103,3,Malinowsky 2007,trail,1,Terra Firme,52
+104,3,Malinowsky 2007,trail,1,Terra Firme,64
+105,3,Malinowsky 2007,trail,1,Terra Firme,62
+106,3,Malinowsky 2007,trail,1,Terra Firme,62
+107,3,Malinowsky 2007,trail,2,Floodplain,62
+108,3,Malinowsky 2007,trail,1,Terra Firme,62
+109,3,Malinowsky 2007,trail,1,Terra Firme,62
+110,4,Los Amigos 2007,trail,2,Floodplain,66
+111,4,Los Amigos 2007,trail,2,Floodplain,40
+112,4,Los Amigos 2007,trail,2,Floodplain,66
+113,4,Los Amigos 2007,trail,1,Terra Firme,66
+114,4,Los Amigos 2007,trail,2,Floodplain,66
+115,4,Los Amigos 2007,trail,2,Floodplain,64
+116,4,Los Amigos 2007,trail,1,Terra Firme,65
+117,4,Los Amigos 2007,trail,1,Terra Firme,66
+118,4,Los Amigos 2007,trail,1,Terra Firme,65
+119,4,Los Amigos 2007,trail,1,Terra Firme,63
+120,4,Los Amigos 2007,trail,1,Terra Firme,66
+121,4,Los Amigos 2007,trail,1,Terra Firme,62
+122,4,Los Amigos 2007,trail,1,Terra Firme,65
+123,4,Los Amigos 2007,trail,1,Terra Firme,64
+124,4,Los Amigos 2007,trail,1,Terra Firme,65
+125,4,Los Amigos 2007,trail,1,Terra Firme,65
+126,4,Los Amigos 2007,trail,1,Terra Firme,63
+127,4,Los Amigos 2007,trail,1,Terra Firme,65
+128,4,Los Amigos 2007,trail,1,Terra Firme,65
+129,4,Los Amigos 2007,trail,1,Terra Firme,51
+130,4,Los Amigos 2007,trail,1,Terra Firme,57
+131,4,Los Amigos 2007,trail,1,Terra Firme,66
+132,4,Los Amigos 2007,trail,1,Terra Firme,65
+133,4,Los Amigos 2007,trail,1,Terra Firme,65
+134,4,Los Amigos 2007,trail,2,Floodplain,65
+135,4,Los Amigos 2007,trail,1,Terra Firme,66
+136,4,Los Amigos 2007,trail,2,Floodplain,65
+137,4,Los Amigos 2007,trail,2,Floodplain,67
+138,4,Los Amigos 2007,trail,1,Terra Firme,64
+139,4,Los Amigos 2007,trail,1,Terra Firme,65
+140,4,Los Amigos 2007,trail,1,Terra Firme,65
+141,4,Los Amigos 2007,trail,1,Terra Firme,66
+142,4,Los Amigos 2007,trail,2,Floodplain,62
+143,4,Los Amigos 2007,trail,2,Floodplain,64
+144,4,Los Amigos 2007,trail,1,Terra Firme,64
+145,4,Los Amigos 2007,trail,2,Floodplain,66
+146,4,Los Amigos 2007,trail,1,Terra Firme,65
+147,4,Los Amigos 2007,trail,2,Floodplain,41
+148,4,Los Amigos 2007,trail,2,Floodplain,66
+149,4,Los Amigos 2007,trail,2,Floodplain,48
+150,5,Monterey 2008,off-trail,1,Terra Firme,37
+152,5,Monterey 2008,off-trail,1,Terra Firme,37
+153,5,Monterey 2008,off-trail,1,Terra Firme,37
+154,5,Monterey 2008,off-trail,1,Terra Firme,29
+155,5,Monterey 2008,off-trail,1,Terra Firme,36
+156,5,Monterey 2008,off-trail,1,Terra Firme,36
+157,5,Monterey 2008,off-trail,1,Terra Firme,36
+158,5,Monterey 2008,off-trail,1,Terra Firme,36
+159,5,Monterey 2008,off-trail,1,Terra Firme,35
+160,5,Monterey 2008,off-trail,1,Terra Firme,35
+161,5,Monterey 2008,off-trail,1,Terra Firme,35
+162,5,Monterey 2008,off-trail,1,Terra Firme,35
+163,5,Monterey 2008,off-trail,1,Terra Firme,35
+166,5,Monterey 2008,off-trail,1,Terra Firme,20
+167,5,Monterey 2008,off-trail,1,Terra Firme,35
+168,5,Monterey 2008,off-trail,1,Terra Firme,34
+169,5,Monterey 2008,off-trail,1,Terra Firme,34
+170,5,Monterey 2008,off-trail,1,Terra Firme,34
+172,5,Monterey 2008,off-trail,1,Terra Firme,34
+173,5,Monterey 2008,off-trail,1,Terra Firme,33
+174,5,Monterey 2008,off-trail,1,Terra Firme,33
+175,5,Monterey 2008,off-trail,1,Terra Firme,33
+176,5,Monterey 2008,off-trail,1,Terra Firme,33
+177,6,Alerta 2008,off-trail,1,Terra Firme,35
+178,6,Alerta 2008,off-trail,1,Terra Firme,38
+179,6,Alerta 2008,off-trail,1,Terra Firme,35
+180,6,Alerta 2008,off-trail,1,Terra Firme,35
+182,6,Alerta 2008,off-trail,1,Terra Firme,38
+183,6,Alerta 2008,off-trail,1,Terra Firme,38
+184,6,Alerta 2008,off-trail,1,Terra Firme,38
+185,6,Alerta 2008,off-trail,1,Terra Firme,37
+186,6,Alerta 2008,off-trail,1,Terra Firme,37
+187,6,Alerta 2008,off-trail,1,Terra Firme,37
+188,6,Alerta 2008,off-trail,1,Terra Firme,37
+189,6,Alerta 2008,off-trail,1,Terra Firme,37
+190,6,Alerta 2008,off-trail,1,Terra Firme,36
+191,6,Alerta 2008,off-trail,1,Terra Firme,36
+192,6,Alerta 2008,off-trail,1,Terra Firme,36
+193,6,Alerta 2008,off-trail,1,Terra Firme,36
+194,6,Alerta 2008,off-trail,1,Terra Firme,36
+195,6,Alerta 2008,off-trail,1,Terra Firme,35
+196,6,Alerta 2008,off-trail,1,Terra Firme,35
+198,6,Alerta 2008,off-trail,1,Terra Firme,35
+199,6,Alerta 2008,off-trail,1,Terra Firme,35
+200,6,Alerta 2008,off-trail,1,Terra Firme,32
+201,6,Alerta 2008,off-trail,1,Terra Firme,32
+202,6,Alerta 2008,off-trail,1,Terra Firme,32
+203,6,Alerta 2008,off-trail,1,Terra Firme,32
+204,7,Espinoza 2009,trail,1,Terra Firme,78
+205,7,Espinoza 2009,trail,1,Terra Firme,38
+206,7,Espinoza 2009,trail,1,Terra Firme,138
+207,7,Espinoza 2009,trail,1,Terra Firme,112
+208,7,Espinoza 2009,trail,1,Terra Firme,81
+209,7,Espinoza 2009,trail,2,Floodplain,138
+210,7,Espinoza 2009,trail,1,Terra Firme,86
+211,7,Espinoza 2009,off-trail,1,Terra Firme,59
+212,7,Espinoza 2009,trail,1,Terra Firme,105
+213,7,Espinoza 2009,trail,1,Terra Firme,95
+214,7,Espinoza 2009,trail,1,Terra Firme,31
+215,7,Espinoza 2009,trail,1,Terra Firme,82
+216,7,Espinoza 2009,trail,1,Terra Firme,66
+217,7,Espinoza 2009,trail,1,Terra Firme,87
+218,7,Espinoza 2009,trail,1,Terra Firme,124
+219,7,Espinoza 2009,trail,1,Terra Firme,70
+220,7,Espinoza 2009,trail,1,Terra Firme,86
+221,7,Espinoza 2009,trail,1,Terra Firme,75
+222,7,Espinoza 2009,trail,1,Terra Firme,105
+223,7,Espinoza 2009,trail,1,Terra Firme,56
+224,7,Espinoza 2009,trail,1,Terra Firme,95
+225,7,Espinoza 2009,trail,1,Terra Firme,49
+226,7,Espinoza 2009,trail,1,Terra Firme,85
+227,7,Espinoza 2009,off-trail,1,Terra Firme,132
+228,7,Espinoza 2009,trail,1,Terra Firme,42
+229,7,Espinoza 2009,trail,1,Terra Firme,74
+230,7,Espinoza 2009,trail,1,Terra Firme,67
+231,7,Espinoza 2009,trail,1,Terra Firme,134
+232,7,Espinoza 2009,off-trail,1,Terra Firme,114
+233,7,Espinoza 2009,off-trail,1,Terra Firme,53
+234,7,Espinoza 2009,trail,1,Terra Firme,131
+235,7,Espinoza 2009,trail,1,Terra Firme,131
+236,7,Espinoza 2009,trail,1,Terra Firme,100
+237,7,Espinoza 2009,trail,1,Terra Firme,108
+238,7,Espinoza 2009,trail,1,Terra Firme,118
+239,7,Espinoza 2009,trail,1,Terra Firme,128
+240,7,Espinoza 2009,trail,1,Terra Firme,63
+241,7,Espinoza 2009,off-trail,1,Terra Firme,124
+242,8,CM2 2010,off-trail,1,Terra Firme,110
+243,8,CM2 2010,off-trail,1,Terra Firme,107
+244,8,CM2 2010,off-trail,1,Terra Firme,105
+245,8,CM2 2010,off-trail,1,Terra Firme,102
+246,8,CM2 2010,off-trail,1,Terra Firme,65
+247,8,CM2 2010,off-trail,1,Terra Firme,92
+248,8,CM2 2010,off-trail,1,Terra Firme,101
+249,8,CM2 2010,off-trail,1,Terra Firme,6
+250,8,CM2 2010,off-trail,1,Terra Firme,102
+251,8,CM2 2010,off-trail,1,Terra Firme,101
+252,8,CM2 2010,off-trail,1,Terra Firme,85
+253,8,CM2 2010,off-trail,1,Terra Firme,96
+254,8,CM2 2010,off-trail,1,Terra Firme,95
+256,8,CM2 2010,off-trail,1,Terra Firme,135
+257,8,CM2 2010,off-trail,1,Terra Firme,56
+258,8,CM2 2010,off-trail,1,Terra Firme,106
+259,8,CM2 2010,off-trail,1,Terra Firme,131
+260,8,CM2 2010,off-trail,1,Terra Firme,131
+261,8,CM2 2010,off-trail,1,Terra Firme,135
+262,8,CM2 2010,off-trail,1,Terra Firme,105
+263,8,CM2 2010,off-trail,1,Terra Firme,125
+266,8,CM2 2010,off-trail,1,Terra Firme,155
+267,8,CM2 2010,off-trail,1,Terra Firme,154
+268,8,CM2 2010,off-trail,1,Terra Firme,154
+269,8,CM2 2010,off-trail,1,Terra Firme,36
+270,8,CM2 2010,off-trail,1,Terra Firme,149
+271,8,CM2 2010,off-trail,1,Terra Firme,127
+272,8,CM2 2010,off-trail,1,Terra Firme,102
+273,8,CM2 2010,off-trail,1,Terra Firme,65
+274,8,CM2 2010,off-trail,1,Terra Firme,98

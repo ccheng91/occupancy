@@ -1,0 +1,44 @@
+,model,formula,p(camhours),SEp(camhours),p(Int),SEp(Int),psi(Int),SEpsi(Int),,,,,,,
+2,m002,~1 ~ sitecovs.ele_stand,NA,NA,-6.002598325,0.336571937,21.88656077,33.1343431,,,,,,,
+1,m001,~1 ~ 1,NA,NA,-6.177175366,0.336827226,6.763078466,38.60328727,,,,,,,
+4,m004,~1 ~ sitecovs.ele_stand + sitecovs.dis + sitecovs.cam_angle,NA,NA,-5.887806797,0.33513042,-5.911843514,12.65085346,,,,,,,
+6,m006,~camhours ~ 1,18.2101738,802.167617,-8.081916738,85.065783,7.267227063,50.05338501,,,,,,,
+7,m007,~camhours ~ 1,18.2101738,802.167617,-8.081916738,85.065783,7.267227063,50.05338501,,,,,,,
+5,m005,~1 ~ sitecovs.ele_stand + sitecovs.dis + sitecovs.cam_angle + sitecovs.ridge,NA,NA,-5.842447339,0.335195999,10.15763508,258.8255856,,,,,,,
+11,m011,~camhours ~ sitecovs.ele_stand + sitecovs.dis + sitecovs.cam_angle,18.13811187,660.1933875,-7.774168358,70.01020051,-7.583540111,17.58766391,,,,,,,
+13,m013,~camhours ~ sitecovs.ele_stand * sitecovs.dis,18.20088814,670.8756629,-7.783190581,71.14299477,38.58516322,52.51136125,,,,,,,
+8,m008,~camhours ~ sitecovs.dis,18.15687038,767.1006169,-8.075978052,81.34714037,7.257304336,39.06514173,,,,,,,
+10,m010,~camhours ~ sitecovs.ele_stand,18.16210496,798.4082439,-8.076949969,84.66710261,7.259410241,74.23777937,,,,,,,
+12,m012,~camhours ~ sitecovs.ele_stand + sitecovs.dis + sitecovs.cam_angle + sitecovs.ridge,18.07101449,675.3058334,-7.741561019,71.61273705,4.669472387,38.96089349,,,,,,,
+3,m003,~1 ~ sitecovs.ele_stand + sitecovs.dis,NA,NA,-6.125593449,0.34970403,10.58407614,NA,,,,,,,
+9,m009,~camhours ~ sitecovs.ele_stand + sitecovs.dis,18.23282749,808.4002844,-8.000453337,85.7266843,53.24295197,93.83928718,,,,,,,
+,,,,,,,,,,,,,,,
+,model,formula,psi(sitecovs.cam_angle),SEpsi(sitecovs.cam_angle),psi(sitecovs.dis),SEpsi(sitecovs.dis),psi(sitecovs.ele_stand:sitecovs.dis),SEpsi(sitecovs.ele_stand:sitecovs.dis),psi(sitecovs.ele_stand),SEpsi(sitecovs.ele_stand),psi(sitecovs.ridge),SEpsi(sitecovs.ridge),1,CondNum,negLogLike
+2,m002,~1 ~ sitecovs.ele_stand,NA,NA,NA,NA,NA,NA,-23.85454962,39.10691165,NA,NA,1,23516.01894,63.18533197
+1,m001,~1 ~ 1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,13381.80591,64.6156421
+4,m004,~1 ~ sitecovs.ele_stand + sitecovs.dis + sitecovs.cam_angle,26.7242257,28.28128046,2.972777316,5.889454024,NA,NA,-26.53193528,30.48731638,NA,NA,1,14860.77338,62.14706977
+6,m006,~camhours ~ 1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,5908927.646,64.37395654
+7,m007,~camhours ~ 1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,5908927.646,64.37395654
+5,m005,~1 ~ sitecovs.ele_stand + sitecovs.dis + sitecovs.cam_angle + sitecovs.ridge,41.36804116,264.2787231,5.357353721,19.06309922,NA,NA,-66.90434653,161.2195895,-27.5133379,57.70272077,1,1174660.521,61.6154536
+11,m011,~camhours ~ sitecovs.ele_stand + sitecovs.dis + sitecovs.cam_angle,39.50202921,48.0347474,4.8987645,13.03669575,NA,NA,-41.36629592,57.83880207,NA,NA,1,4020914.072,61.76134849
+13,m013,~camhours ~ sitecovs.ele_stand * sitecovs.dis,NA,NA,32.92600024,45.93780358,-39.6082773,56.14670537,-43.03671095,61.17441019,NA,NA,1,4108565.389,61.93209455
+8,m008,~camhours ~ sitecovs.dis,NA,NA,0.995716886,NA,NA,NA,NA,NA,NA,NA,0,-6218.677071,64.37356946
+10,m010,~camhours ~ sitecovs.ele_stand,NA,NA,NA,NA,NA,NA,0.294256635,50.54335482,NA,NA,0,5852876.434,64.37413266
+12,m012,~camhours ~ sitecovs.ele_stand + sitecovs.dis + sitecovs.cam_angle + sitecovs.ridge,25.52862804,42.57205942,3.17972814,5.614740539,NA,NA,-38.38532069,41.35497372,-14.8454689,18.02075694,1,4174326.443,61.50453627
+3,m003,~1 ~ sitecovs.ele_stand + sitecovs.dis,NA,NA,7.838602395,NA,NA,NA,0.133402119,2.574472259,NA,NA,1,-9330.894605,64.5318854
+9,m009,~camhours ~ sitecovs.ele_stand + sitecovs.dis,NA,NA,45.11744281,83.78595839,NA,NA,1.279085985,3.492427549,NA,NA,1,5994563.903,63.77036545
+,,,,,,,,,,,,,,,
+,model,formula,nPars,n,AIC,delta,AICwt,Rsq,cumltvWt,,,,,,
+2,m002,~1 ~ sitecovs.ele_stand,3,58,132.3706639,0,0.266252099,NA,0.266252099,,,,,,
+1,m001,~1 ~ 1,2,58,133.2312842,0.860620263,0.173145706,NA,0.439397805,,,,,,
+4,m004,~1 ~ sitecovs.ele_stand + sitecovs.dis + sitecovs.cam_angle,5,58,134.2941395,1.923475606,0.101769026,NA,0.541166832,,,,,,
+6,m006,~camhours ~ 1,3,58,134.7479131,2.377249143,0.081111036,NA,0.622277868,,,,,,
+7,m007,~camhours ~ 1,3,58,134.7479131,2.377249143,0.081111036,NA,0.703388904,,,,,,
+5,m005,~1 ~ sitecovs.ele_stand + sitecovs.dis + sitecovs.cam_angle + sitecovs.ridge,6,58,135.2309072,2.860243265,0.063708753,NA,0.767097657,,,,,,
+11,m011,~camhours ~ sitecovs.ele_stand + sitecovs.dis + sitecovs.cam_angle,6,58,135.522697,3.152033047,0.055060197,NA,0.822157854,,,,,,
+13,m013,~camhours ~ sitecovs.ele_stand * sitecovs.dis,6,58,135.8641891,3.493525173,0.046417708,NA,0.868575562,,,,,,
+8,m008,~camhours ~ sitecovs.dis,4,58,136.7471389,4.37647498,0.029850635,NA,0.898426197,,,,,,
+10,m010,~camhours ~ sitecovs.ele_stand,4,58,136.7482653,4.377601381,0.029833828,NA,0.928260025,,,,,,
+12,m012,~camhours ~ sitecovs.ele_stand + sitecovs.dis + sitecovs.cam_angle + sitecovs.ridge,7,58,137.0090725,4.638408609,0.026186377,NA,0.954446401,,,,,,
+3,m003,~1 ~ sitecovs.ele_stand + sitecovs.dis,4,58,137.0637708,4.693106877,0.025479907,NA,0.979926308,,,,,,
+9,m009,~camhours ~ sitecovs.ele_stand + sitecovs.dis,5,58,137.5407309,5.170066965,0.020073692,NA,1,,,,,,
